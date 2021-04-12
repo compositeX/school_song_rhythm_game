@@ -4,6 +4,8 @@ Version 2.0 - 20210411a
 Program By ZBH
 Rhythm By YZL
 
+如需要修改并重新编译程序，请自行配置GLUT开发环境
+
 若制作了后续版本，将会上传到 https://github.com/compositeX/school_song_rhythm_game
 
 == v2.0 添加内容 ==
